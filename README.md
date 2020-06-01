@@ -1,3 +1,8 @@
+![First Page](https://github.com/Omoefe-Ugboma/expense-recod-keeping-application/blob/master/src/assets/InterfaceForExpense.PNG)
+
+
+![Second Page](https://github.com/Omoefe-Ugboma/expense-recod-keeping-application/blob/master/src/assets/InterFaceForExpense2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
