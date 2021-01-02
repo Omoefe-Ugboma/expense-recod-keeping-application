@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expense-recod-keeping-application/static/css/main.2a77bc46.chunk.css",
+    "main.js": "/expense-recod-keeping-application/static/js/main.ed835251.chunk.js",
+    "main.js.map": "/expense-recod-keeping-application/static/js/main.ed835251.chunk.js.map",
+    "runtime-main.js": "/expense-recod-keeping-application/static/js/runtime-main.d7af303d.js",
+    "runtime-main.js.map": "/expense-recod-keeping-application/static/js/runtime-main.d7af303d.js.map",
+    "static/js/2.425c6326.chunk.js": "/expense-recod-keeping-application/static/js/2.425c6326.chunk.js",
+    "static/js/2.425c6326.chunk.js.map": "/expense-recod-keeping-application/static/js/2.425c6326.chunk.js.map",
+    "index.html": "/expense-recod-keeping-application/index.html",
+    "precache-manifest.b510fe56c0e2284a3cbfecc8635cae13.js": "/expense-recod-keeping-application/precache-manifest.b510fe56c0e2284a3cbfecc8635cae13.js",
+    "service-worker.js": "/expense-recod-keeping-application/service-worker.js",
+    "static/css/main.2a77bc46.chunk.css.map": "/expense-recod-keeping-application/static/css/main.2a77bc46.chunk.css.map",
+    "static/js/2.425c6326.chunk.js.LICENSE.txt": "/expense-recod-keeping-application/static/js/2.425c6326.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7af303d.js",
+    "static/js/2.425c6326.chunk.js",
+    "static/css/main.2a77bc46.chunk.css",
+    "static/js/main.ed835251.chunk.js"
+  ]
+}
